@@ -1,4 +1,4 @@
-# 🏆 Mental Health Sentiment & Emotion Classification  
+# Mental Health Sentiment & Emotion Classification  
 **🥉 3rd Place - SRMIST LLM Healthcare Hackathon 2025**  
 
 ![Hackathon Banner](https://via.placeholder.com/800x400?text=SRMIST+LLM+Healthcare+Hackathon+2025)  
