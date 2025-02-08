@@ -38,8 +38,8 @@ This project is a cutting-edge **mental health sentiment and emotion classificat
 - 🔹 **Expanding to Other Mental Health Conditions**  
 
 ## 🤝 Contributors  
-👨‍💻 **Your Name** ([LinkedIn](https://www.linkedin.com/in/yugandran-b-b014b3249/))  
-👨‍💻 **Sri Sathwik** ([GitHub](https://github.com/SriSathwik1905))  
+👨‍💻 **Yugandran B** ([LinkedIn](https://www.linkedin.com/in/yugandran-b-b014b3249/))  
+👨‍💻 **Sri Sathwik Padala** ([GitHub](https://github.com/SriSathwik1905))  
 
 ## 📜 License  
 This project is open-source under the **MIT License**.  
