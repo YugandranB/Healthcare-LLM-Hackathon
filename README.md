@@ -1,7 +1,8 @@
 # ⚕️Mental Health Sentiment & Emotion Classification  
 **🥉 3rd Place - SRMIST LLM Healthcare Hackathon 2025**  
 
-![Hackathon Banner](!https://drive.google.com/file/d/182PkW9A_uv7e_-MCI6JNGNOxmy-b9ANc/view?usp=sharing)
+![Hackathon Banner](https://drive.google.com/uc?export=view&id=182PkW9A_uv7e_-MCI6JNGNOxmy-b9ANc)
+
 
 ## 📌 Overview  
 This project is a cutting-edge **mental health sentiment and emotion classification system** leveraging **Large Language Models (LLMs)**. Designed to analyze social media conversations, patient records, and mental health discussions, the model helps detect **emotions, sentiments, and potential signs of mental distress**.  
