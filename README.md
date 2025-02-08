@@ -29,6 +29,20 @@ This project is a cutting-edge **mental health sentiment and emotion classificat
 ## 🏆 Achievements  
 - 🏅 **3rd Place Winner** – Among top solutions in **SRMIST LLM Healthcare Hackathon 2025**.  
 - 📈 **High Accuracy** – Achieved **90%+ classification accuracy** on benchmark datasets.  
-- ⚡ **Real-World Impact** – Potential applications in **mental health monitoring, therapy chatbots, and crisis prevention**.  
+- ⚡ **Real-World Impact** – Potential applications in **mental health monitoring, therapy chatbots, and crisis prevention**.
+
+- ## 📌 Future Scope  
+- 🔹 **Real-time Emotion Tracking for Therapy Bots**  
+- 🔹 **Multi-Lingual Support**  
+- 🔹 **Integration with Healthcare Chatbots & Crisis Helplines**  
+- 🔹 **Expanding to Other Mental Health Conditions**  
+
+## 🤝 Contributors  
+👨‍💻 **Your Name** ([LinkedIn](https://www.linkedin.com/in/yugandran-b-b014b3249/))  
+👨‍💻 **Sri Sathwik** ([GitHub](https://github.com/SriSathwik1905))  
+
+## 📜 License  
+This project is open-source under the **MIT License**.  
+
 
 
